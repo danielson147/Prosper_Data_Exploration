@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# (Prosper Data Exploration)
+## by (Olalekan Ayinde)
 
 
 ## Dataset
